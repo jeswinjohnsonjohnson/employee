@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Archivo+Black&family=Edu+TAS+Beginner&family=Fredoka+One&family=Goblin+One&family=Ibarra+Real+Nova&family=Island+Moments&family=Kranky&family=Libre+Baskerville:wght@700&family=Merriweather:ital,wght@1,300&family=Mochiy+Pop+One&family=Permanent+Marker&family=Rampart+One&family=Rubik+Moonrocks&family=Teko:wght@300&display=swap');
+.modal.fade.show {
+    display: block;
+    background: rgba(0, 0, 0, 0.4);
+}
+.card-title{
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 5px;
+    display: block;
+}
+
+h1,h2{
+    font-family: 'Merriweather', serif;
+
+}
